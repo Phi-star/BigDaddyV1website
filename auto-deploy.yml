@@ -17,4 +17,4 @@ jobs:
         run: git pull origin main
 
       - name: Restart Render Server
-        run: curl -X POST "https://api.render.com/deploy/webhook/your-webhook-id"
+        run: curl -X POST "https://api.render.com/deploy/srv-cujkrfjv2p9s7382pj60?key=JnkAxMPXMPY"
